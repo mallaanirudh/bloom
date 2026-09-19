@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/bloom_test.dir/tests/test_basic.c.o -o bloom_test  -Wl,-rpath,/usr/local/lib libbloom.a /usr/local/lib/libmicroxrcedds_client.so.3.0.1 /usr/local/lib/libmicrocdr.a 

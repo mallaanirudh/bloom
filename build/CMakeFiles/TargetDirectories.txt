@@ -1,0 +1,4 @@
+/home/anirudh/projects/bloom/build/CMakeFiles/bloom.dir
+/home/anirudh/projects/bloom/build/CMakeFiles/bloom_test.dir
+/home/anirudh/projects/bloom/build/CMakeFiles/edit_cache.dir
+/home/anirudh/projects/bloom/build/CMakeFiles/rebuild_cache.dir

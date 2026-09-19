@@ -1,0 +1,2 @@
+/usr/bin/ar qc libbloom.a CMakeFiles/bloom.dir/src/protocol/protocol.c.o CMakeFiles/bloom.dir/src/protocol/xrce_protocol.c.o CMakeFiles/bloom.dir/src/transport/mock_transport.c.o
+/usr/bin/ranlib libbloom.a
